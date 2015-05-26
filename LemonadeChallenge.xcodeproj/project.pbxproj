@@ -13,6 +13,7 @@
 		7CDAF4CA1B13EF260048CC74 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAF4C91B13EF260048CC74 /* Images.xcassets */; };
 		7CDAF4CD1B13EF260048CC74 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAF4CB1B13EF260048CC74 /* LaunchScreen.xib */; };
 		7CDAF4D91B13EF270048CC74 /* LemonadeChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CDAF4D81B13EF270048CC74 /* LemonadeChallengeTests.swift */; };
+		7CDAF4E51B141EB80048CC74 /* LemonadeStandBg.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAF4E41B141EB80048CC74 /* LemonadeStandBg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7CDAF4D21B13EF260048CC74 /* LemonadeChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LemonadeChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CDAF4D71B13EF270048CC74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CDAF4D81B13EF270048CC74 /* LemonadeChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LemonadeChallengeTests.swift; sourceTree = "<group>"; };
+		7CDAF4E41B141EB80048CC74 /* LemonadeStandBg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LemonadeStandBg.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		7CDAF4C01B13EF260048CC74 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7CDAF4E41B141EB80048CC74 /* LemonadeStandBg.png */,
 				7CDAF4C11B13EF260048CC74 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +197,7 @@
 			files = (
 				7CDAF4C81B13EF260048CC74 /* Main.storyboard in Resources */,
 				7CDAF4CD1B13EF260048CC74 /* LaunchScreen.xib in Resources */,
+				7CDAF4E51B141EB80048CC74 /* LemonadeStandBg.png in Resources */,
 				7CDAF4CA1B13EF260048CC74 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
